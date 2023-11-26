@@ -1,0 +1,16 @@
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\bin\Debug\netstandard2.0\Lab11MVVMB.deps.json
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\bin\Debug\netstandard2.0\Lab11MVVMB.dll
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\bin\Debug\netstandard2.0\ref\Lab11MVVMB.dll
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\bin\Debug\netstandard2.0\Lab11MVVMB.pdb
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Lab11MVVMB.csproj.AssemblyReference.cache
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Lab11MVVMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Views\Sueldo.xaml.g.cs
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Lab11MVVMB.AssemblyInfoInputs.cache
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Lab11MVVMB.AssemblyInfo.cs
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Lab11MVVMB.csproj.CoreCompileInputs.cache
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Lab11MVVMB.dll
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\refint\Lab11MVVMB.dll
+C:\Users\ANTONY\source\repos\Lab11MVVMB\Lab11MVVMB\Lab11MVVMB\obj\Debug\netstandard2.0\Lab11MVVMB.pdb
